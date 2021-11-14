@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iTzVoko
-- 👀 I’m interested in I am interested in designing and programming websites and applications
+- 👀 I’m interested in designing and programming websites and applications
 - 🌱 I'm currently learning Several programming languages
-- 📫 How to reach me: Discord iTzVoko#7902 or instagram @itzvokoyt
+- 📫 How to reach me: Telegram: t.me/iTzVoko or instagram: @iTzVokoYT
 <!--- 💞️ I’m looking to collaborate on--->
 <!---
 iTzVoko/iTzVoko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
