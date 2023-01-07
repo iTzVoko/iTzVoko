@@ -10,3 +10,5 @@
 - 🌱 Currently, I am focusing on deepening my understanding of Linux, C programming language and compiler design, and I am excited to collaborate and work with others on projects through GitHub.
 
 - 📫 If you want to get in touch, you can reach me on Telegram at t.me/iTzVoko. I look forward to connecting and working together!
+
+    ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)
