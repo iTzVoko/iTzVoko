@@ -22,3 +22,6 @@
 - 📫 If you want to get in touch, you can reach me on Telegram at t.me/iTzVoko. I look forward to connecting and working together!
 
     ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)
+    
+    <!-- I will show the views counter when I be famous :) -->
+    <a href="https://github.com/iTzVoko"><img height="0" title="Counter" src="https://komarev.com/ghpvc/?username=iTzVoko&color=blueviolet&style=flat-square"></a>
