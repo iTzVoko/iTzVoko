@@ -1,6 +1,11 @@
 # 👋 Hi there! I'm Ali.
 
-<p align="center">
+<!--
+    Comment these stats cards, because of the following error:
+        Something went wrong! file an issue at https://tiny.one/readme-stats
+        Maximum retries exceeded Please add an env variable called PAT_1 with your github token in vercel
+-->
+<!-- <p align="center">
     <a href="https://github.com/iTzVoko">
         <img height="165" src="https://github-readme-stats.vercel.app/api?username=iTzVoko&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true">
     </a>
@@ -8,7 +13,7 @@
     <a href="https://github.com/iTzVoko">
         <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTzVoko&layout=compact&theme=react&hide_border=true">
     </a>
-</p>
+</p> -->
 
 ## 🚀 About Me
 
